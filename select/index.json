@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ふたつの月 ~Deep Into The Forest~",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2026-01-03T10:08:22.385017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふたつの月 ~Deep Into The Forest~",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/01_ふたつの月_~Deep_Into_The_Forest~_Ave_Mujica.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ふたつの月 ~Deep Into The Forest~",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/02_ふたつの月_~Deep_Into_The_Forest~_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ふたつの月 ～Deep Into The Forest～",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/03_ふたつの月_~Deep_Into_The_Forest~_Ave_Mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたつの月 ～Deep Into The Forest～",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_ふたつの月_~Deep_Into_The_Forest~_Ave_Mujica.txt"
+    }
+  ]
+}
